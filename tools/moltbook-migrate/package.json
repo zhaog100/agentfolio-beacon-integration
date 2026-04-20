@@ -1,0 +1,15 @@
+{
+  "name": "moltbook-migrate",
+  "version": "1.0.0",
+  "description": "Migration tool for Moltbook agents to RustChain Beacon + AgentFolio",
+  "main": "migrate.py",
+  "scripts": {
+    "migrate": "python3 migrate.py"
+  },
+  "bin": {
+    "beacon": "migrate.py"
+  },
+  "keywords": ["moltbook", "migration", "beacon", "agentfolio", "rustchain"],
+  "author": "xiaomili",
+  "license": "MIT"
+}
