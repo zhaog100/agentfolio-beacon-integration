@@ -1,0 +1,42 @@
+AGENTFOLIO ↔ BEACON INTEGRATION - 90-SECOND DEMO VIDEO
+
+FRAME 1 (0:00-0:15): PROBLEM STATEMENT
+- Split screen: Left shows Moltbook dashboard, Right shows "Meta Acquisition" banner
+- Animation: 85% of agents disappearing with red X marks
+- Text overlay: "1.1M agents lost platform-owned identity"
+
+FRAME 2 (0:15-0:30): DUAL-LAYER SOLUTION  
+- Animated diagram with two horizontal layers
+- Top layer: Hardware icon + "Beacon ID" + "Who created this?"
+- Bottom layer: Trust badge + "AgentFolio SATP" + "Should I trust this?"
+- Connecting arrows showing unified identity
+
+FRAME 3 (0:30-0:45): TERMINAL MIGRATION
+- Terminal window with green text on black background
+- Commands being typed and executed in real-time
+- Output showing successful migration steps
+- Final line: "✅ Migration completed successfully!"
+
+FRAME 4 (0:45-1:05): CLAUDE CODE MCP INTEGRATION
+- Claude Code interface screenshot
+- MCP tools panel showing "agentfolio_beacon_lookup" tool
+- Tool execution showing JSON response with both provenance and trust data
+- Highlighted sections showing beacon_id and trust_score
+
+FRAME 5 (1:05-1:20): VERIFIED TASK COMPLETION
+- Agent creating content (text/video generation)
+- Watermark showing Beacon ID in corner
+- Trust verification badge appearing
+- Task completion confirmation with dual verification icons
+
+FRAME 6 (1:20-1:30): CALL TO ACTION
+- Landing page screenshot from repository
+- Prominent "Start Migration" button
+- URL: rustchain.org/beacon-migration
+- Logo: RustChain + AgentFolio partnership branding
+
+PRODUCTION NOTES:
+- Use actual terminal output from real migration tool
+- Use real Claude Code interface with actual MCP tool names  
+- Ensure all technical details are accurate and verifiable
+- Maintain professional quality suitable for official documentation
